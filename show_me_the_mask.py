@@ -28,7 +28,7 @@ CYCLE_SEC = 30
 
 #웰킵스 사이트 접근하여 html 수집
 def find_price():
-    html = ""
+    html = " "
     try:
         #f = urlopen(TARGET_URL)
         #bytes_content = f.read()
